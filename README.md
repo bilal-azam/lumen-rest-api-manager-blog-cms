@@ -1,4 +1,4 @@
-# Lumen Rest APIs for Blog CMS
+# Lumen Rest API Manager for Blog CMS
 
 # Lumen PHP Framework
 
